@@ -1,0 +1,7 @@
+Building the Fintech project 
+
+A production-grade bilingual loan application intake system built for English and Spanish-speaking borrowers. Designed with fintech compliance patterns in mind: JWT auth with refresh rotation, presigned S3 document storage, full audit logging, and an AI borrower assistant powered by Claude."
+
+Then: a 30-second architecture diagram (your system diagram image), a live demo link, and a one-click local setup section (Docker Compose up, and they're running).
+
+Sections: System Architecture · Tech Stack (with rationale, not just a list) · Security Model · Bilingual Implementation · AI Layer · AWS Infrastructure (with a Terraform graph image) · Data Model · API Documentation (OpenAPI/Swagger link) · Running Locally · Running Tests · Deployment · Domain Expertise Note (this is where you mention 4 years mortgage origination and fluent Spanish — frame it as why the AI prompts and form UX are accurate, not just as background).
