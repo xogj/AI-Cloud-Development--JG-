@@ -1,4 +1,4 @@
-AWSTemplateFormatVersion: '2010-09-09'
+AWSTemplateFormatVersion: "2010-09-09"
 Description: s3-bucket for our CICD Project
 
 Parameters:
@@ -23,3 +23,4 @@ Outputs:
   BucketName:
     Description: The name of the S3 bucket
     Value: !Ref Mys3bucket
+
